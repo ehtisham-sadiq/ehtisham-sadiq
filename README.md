@@ -1,3 +1,5 @@
-I am a young, energetic, and geeky individual whose desire to learn is endless. Highly numerate and team oriented problem solver with Bachelor’s degree in Computer Science. Seeking for the position of a Data Scientist / Machine Learning Engineer. I am ambitious, hardworking and Knowledge Enthusiast, and having strong grip at collecting, analyzing, and interpreting large datasets, developing new forecasting models, and performing data management tasks
+**My name is Ehtisham Sadiq, and I was born in Okara, now Living in lahore, Pakistan.  I am a student of software engineering, with a strong  background in software development and programming. I have hands-on experience in various data analysis tools and techniques, such as Python, SQL, and machine learning algorithms. During my studies and internships, I have worked on projects that have helped me to develop the ability to solve complex problems. I have also gained experience in data visualization, data pre-processing, and model evaluation. I am eager to apply my skills and knowledge to real-world problems and make an impact in the field of data science. In my free time, I enjoy cricket and music like qawali.** 
+
+
 <br/>
 Email : bsef19m521@pucit.edu.pk
