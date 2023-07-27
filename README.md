@@ -2,7 +2,6 @@
 <html>
 
 <head>
-    <title>About Me - Ehtisham Sadiq</title>
 </head>
 
 <body>
