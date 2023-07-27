@@ -1,5 +1,18 @@
 # 💫 About Me:
-<b>I'm Ehtisham Sadiq, a software engineer and machine learning enthusiast with a strong foundation in programming languages, ML frameworks, and data analysis. I'm passionate about utilizing machine learning techniques and NLP to drive meaningful business decisions. I'm always looking to collaborate on interesting projects related to machine learning, data analysis, and software development, and I believe in the power of teamwork to create real-world impact.<br>I'm constantly learning and seeking help from experienced professionals to enhance my expertise. Currently, I'm learning various machine learning algorithms, deep learning techniques, and NLP using Python, Pandas, NumPy, Seaborn, Matplotlib, Plotly, Scikit-Learn, TensorFlow, Keras, NLTK, spaCy, Gensim, and other related libraries. I'm excited about staying updated with the latest advancements in the field of AI and applying them to real-world projects.<br>Feel free to ask me about my projects, machine learning, data analysis, software engineering, or my Final Year Project (FYP) on a web application for the prevention of mental disorders in social media posts using NLP. I'm always eager to share my knowledge and experiences with others. And as a fun fact, I enjoy playing cricket and listening to Qawali music in my free time to rejuvenate my mind!</b>
+
+Hello! 😊 I'm Ehtisham Sadiq, a proficient Data Scientist and Machine Learning Engineer with expertise in programming languages, ML frameworks, and data analysis. 🚀 With a deep understanding of supervised and unsupervised learning techniques, I'm committed to delivering top-notch results.
+
+Passionate about the potential of artificial intelligence, I'm an avid learner and thrive in dynamic teams. My technical skills encompass Python, Pandas, NumPy, Seaborn, Matplotlib, Plotly, Scikit-Learn, TensorFlow, Keras, MySQL, MongoDB, and more, along with proficiency in NLP, Data Analysis, Data Visualization, and Statistical Analysis.
+
+I bring valuable experience as a Data Analyst, Data Science Intern, and ML Engineer, and have worked on impactful projects, including deploying ML models and building Face Recognition features using Hugging-Face and Langchain.
+
+Holding a Bachelor's in Software Engineering, I'm equipped with a strong academic foundation and have a track record of successful projects, like developing an NLP-based web app for mental health prevention. 📚
+
+In addition to my professional pursuits, I enjoy playing cricket 🏏 and find relaxation in Qawali music. 🎶
+
+Let's connect and explore groundbreaking possibilities in technology together. I'm eager to collaborate on meaningful projects and create innovative solutions that redefine the realm of AI and Data Science.
+
+Thank you for visiting my GitHub profile. Let's work together to drive impactful advancements! 🤝
 
 
 ## 🌐 Socials:
