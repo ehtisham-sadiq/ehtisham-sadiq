@@ -21,6 +21,7 @@
         <p>Let's connect and explore groundbreaking possibilities in technology together. I'm eager to collaborate on meaningful
             projects and create innovative solutions that redefine the realm of AI and Data Science.</p>
         <p>Thank you for visiting my GitHub profile. Let's work together to drive impactful advancements! 🤝</p>
+        <b><p>Feel free to connect with me on GitHub and appreciate my work!</p></b>
     </div>
 </body>
 
