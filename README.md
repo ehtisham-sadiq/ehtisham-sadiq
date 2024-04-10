@@ -1,31 +1,41 @@
-<!DOCTYPE html>
-<html>
+# Hello! 😊 I'm Ehtisham Sadiq
 
-<head>
-</head>
+A proficient Data Scientist and Machine Learning Engineer with expertise in programming languages, ML frameworks, and data analysis. 🚀 With a deep understanding of supervised and unsupervised learning techniques, I'm committed to delivering top-notch results.
 
-<body>
-    <div>
-        <h1>Hello! 😊 I'm Ehtisham Sadiq</h1>
-        <p>A proficient Data Scientist and Machine Learning Engineer with expertise in programming languages, ML frameworks,
-            and data analysis. 🚀 With a deep understanding of supervised and unsupervised learning techniques, I'm committed
-            to delivering top-notch results.</p>
-        <p>Passionate about the potential of artificial intelligence, I'm an avid learner and thrive in dynamic teams. My
-            technical skills encompass Python, Pandas, NumPy, Seaborn, Matplotlib, Plotly, Scikit-Learn, TensorFlow, Keras,
-            MySQL, MongoDB, and more, along with proficiency in NLP, Data Analysis, Data Visualization, and Statistical Analysis.</p>
-        <p>I bring valuable experience as a Data Analyst, Data Science Intern, and ML Engineer, and have worked on impactful
-            projects, including deploying ML models and building Face Recognition features using Hugging-Face and Langchain.</p>
-        <p>Holding a Bachelor's in Software Engineering, I'm equipped with a strong academic foundation and have a track record
-            of successful projects, like developing an NLP-based web app for mental health prevention. 📚</p>
-        <p>In addition to my professional pursuits, I enjoy playing cricket 🏏 and find relaxation in Qawali music. 🎶</p>
-        <p>Let's connect and explore groundbreaking possibilities in technology together. I'm eager to collaborate on meaningful
-            projects and create innovative solutions that redefine the realm of AI and Data Science.</p>
-        <p>Thank you for visiting my GitHub profile. Let's work together to drive impactful advancements! 🤝</p>
-        <b><h3 style="color:red">Feel free to connect with me on GitHub and appreciate my work!</h3></b>
-    </div>
-</body>
+## Professional Achievements and Projects
 
-</html>
+### Collection Agency Software Development
+- Designed and implemented the backend of collection agency software from scratch, resulting in a 1200% increase in business revenue.
+- Led the development of an automated data intake pipeline to handle diverse data.
+- Integrated smart AI solutions to streamline business operations.
+
+### Microservices-Based Architecture Development
+- Conceptualized and developed a microservices-based architecture utilizing Python, FastAPI, and SQLAlchemy, resulting in significant optimization of system operations and improved efficiency.
+- Took complete responsibility for managing databases, employing PostgreSQL to create materialized views, leading to optimized database performance.
+
+### Debt Collection SaaS Platform
+- Designed and implemented a versatile, multi-tenant Software-as-a-Service (SaaS) platform tailored to diverse debt collection agencies' needs.
+- Developed a robust system to facilitate debt collectors' operations, enhancing operational efficiency.
+
+### Data Analysis Tool for Wind Energy
+- Designed and implemented a visual dynamic data pipelining tool for data analysis in the wind energy field.
+- Utilized AWS Sagemaker and related services to deploy multiple models.
+- Developed unsupervised and rule-based anomaly detectors for time series data from wind farms.
+
+## Technologies and Tools
+- **Languages**: Python, HTML/CSS, JavaScript, SQL
+- **Frameworks**: TensorFlow, Pytorch, Keras
+- **Tools**: Pandas, NumPy, Seaborn, Matplotlib, Plotly, Streamlit, Heroku
+- **Technologies and Platforms**: NLTK, spaCy, Gensim, Flask, Django, Selenium, MongoDB, RESTful APIs, CI/CD Pipelines, MLOps, Hugging Face, LangChain, AWS Sagemaker, Google Cloud Platform (GCP), OpenAI, ChatGPT
+
+## Soft Skills
+- Problem-solving, Critical thinking, Collaboration, Adaptability, Communication, Self-motivation, Attention to detail, Teamwork, Skill Development, Learning
+
+Let's connect and explore groundbreaking possibilities in technology together. I'm eager to collaborate on meaningful projects and create innovative solutions that redefine the realm of AI and Data Science.
+
+Thank you for visiting my GitHub profile. Let's work together to drive impactful advancements! 🤝
+
+**Feel free to connect with me on GitHub and appreciate my work!**
 
 
 
