@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" width=400px>
 
 # Hey, I'm Ehtisham Sadiq
 
