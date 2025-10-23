@@ -1,76 +1,300 @@
-# 👋 Hi there! I'm Ehtisham Sadiq
+<div align="center">
 
-**Senior AI/ML Engineer & Database Specialist | Technical Lead | Passionate about Scalable AI Solutions**
+# Hey, I'm Ehtisham Sadiq
 
-I’m a highly skilled AI/ML Engineer with **5+ years of experience** in designing, deploying, and optimizing machine learning applications. My expertise spans **ETL workflows, feature engineering, NLP, predictive analytics, cloud platforms (AWS, GCP)**, and leveraging **Docker, Kubernetes, and MLOps** to deliver scalable solutions. I thrive on leading cross-functional teams, solving complex problems, and driving business impact through innovative AI technologies.
+### Full-Stack Engineer | AI/ML Architect | Technical Leader
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=6%2B+Years+Building+Scalable+Systems;Leading+Cross-Functional+Engineering+Teams;Architecting+AI-Powered+SaaS+Platforms;Delivering+99%25%2B+Uptime+in+Production)](https://git.io/typing-svg)
 
-## 🌟 Professional Highlights
-
-### **Technical Lead – AI & Database Engineering**
-**Rivon.ai | Bahawalpur, Pakistan | Sep 2024 – Present**
-- Led a team of 8 engineers across three major AI/ML projects, ensuring timely delivery and adherence to best practices.
-- Developed an **AI-Driven Startup Advisor** using **RAG, LangChain, and OpenAI**, reducing market research time by **50%** and empowering **1.5K+ founders** to optimize growth strategies.
-- Built an **AI-driven interview platform** using **OpenAI and FastAPI**, achieving **96.8% API uptime**, integrating **STT/TTS pipelines** (35% latency reduction), and driving **4.7/5 user satisfaction**.
-- Designed a **dynamic data pipeline orchestration tool** with **gRPC**, boosting data transfer speeds by **40%**, and deployed multiple ML models on **AWS SageMaker**.
-
-### **Senior Software Engineer**
-**Vacon.ai | Lahore, Pakistan | June 2022 – Sep 2024**
-- Led a team of 3 engineers to develop a **scalable SaaS debt-collection platform**, increasing revenue by **1200%**.
-- Streamlined data ingestion and processing by **50%** via asynchronous microservices using **SQLAlchemy, Celery, and Redis**.
-- Architected end-to-end **ETL pipelines** with **Prefect**, reducing manual intervention by **70%**, and integrated validations with **usaddress** and **Twilio** for automated data cleaning.
-- Automated credit underwriting with **AWS Textract, PDFMiner, PyPDF2**, delivering AI predictions for **3 large banks** in under 2 months.
-- Built a **Data Processing Pipeline** using **Apache Spark**, replacing a legacy mainframe and improving efficiency by **70%**.
-
-### **Machine Learning Engineer**
-**Blink Co Technologies Ltd. | Lahore, Pakistan | Dec 2020 – June 2022**
-- Developed **AI/NLP solutions**, including a conversational AI assistant with **SpaCy, CRF, BERT**, served via **Flask on AWS EC2**.
-- Trained and deployed **Deep Learning models (DenseNN, LSTM)** for text classification using **PyTorch** on **AWS SageMaker**.
-- Built a **Knowledge Extraction pipeline** for **100k+ documents** using **BeautifulSoup, NER, and Topic Modeling (Gensim, TextRazor)**.
-- Designed a **Predictive Analytics PoC** for oil well failures using **MLE, MAP, and EM Algorithm** with **NumPy, SciPy, Scikit-learn**.
+</div>
 
 
-## 💡 Key Projects
+## About Me
 
-### **AI-Driven Survival Prediction for Liver Patients**
-- Engineered an **XGBoost model** to predict cirrhosis outcomes with **93.8% accuracy** and **0.17 log loss**.
+I'm a Technical Lead specializing in **end-to-end product development** — from architecting scalable backends to building intuitive frontends and deploying AI/ML solutions in production. With **6+ years** of experience, I've led engineering teams to ship enterprise-grade platforms that handle millions of requests while maintaining **99%+ uptime**.
 
-### **AI for Smarter Personal Finance Tracking**
-- Built a **Random Forest classifier** to auto-categorize bank transactions with **90.5% precision** and **95.6% ROC-AUC**.
+**What drives me:** Turning complex business problems into elegant, scalable technical solutions that create measurable impact.
 
-### **Brand Identity Alignment Solution**
-- Developed a **brand-alignment solution** using **advanced text normalization, named entity recognition, fuzzy matching, and clustering**.
+```python
+class EhtishamSadiq:
+    def __init__(self):
+        self.role = "Technical Lead & Senior Full-Stack Engineer"
+        self.location = "Pakistan 🇵🇰"
+        self.experience = "6+ years"
+        self.team_leadership = "3-8 engineers"
+        
+    def current_focus(self):
+        return {
+            "architecture": "Microservices & Event-Driven Systems",
+            "ai_ml": "LangChain, RAG, Production ML Pipelines",
+            "cloud": "AWS, GCP, Docker, Kubernetes",
+            "leadership": "Technical Strategy & Team Mentorship"
+        }
+    
+    def fun_fact(self):
+        return "I optimize code for performance AND readability"
 
-
-## 🏆 Achievements & Certifications
-
-- **AI-Driven Survival Prediction for Liver Patients**: XGBoost model with **93.8% accuracy** and **0.17 log loss**.
-- **AI for Smarter Personal Finance Tracking**: Random Forest classifier with **90.5% precision** and **95.6% ROC-AUC**.
-- **Certificates**:
-  - Python for Data Engineering – DataCamp
-  - Machine Learning Specialization – Coursera
-  - Deep Learning Specialization – Coursera
-
-
-## 🤝 Let’s Connect!
-
-I’m always open to collaborating on meaningful projects, sharing knowledge, or exploring new opportunities. Feel free to reach out!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ehtisham-sadiq/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/EhtishamSadiq10)  
-📧 Email: ehtisham.selfwork@gmail.com  
-📞 Phone: +92-3054661042  
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat-square&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ehtisham-sadiq&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ehtisham-sadiq&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ehtisham-sadiq&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+me = EhtishamSadiq()
+print(me.fun_fact())
+```
 
 ---
-<!-- [![](https://visitcount.itsvg.in/api?id=ehtisham-sadiq&icon=0&color=0)](https://visitcount.itsvg.in) -->
-[![](https://visitcount.itsvg.in/api?id=ehtisham-sadiq&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## What I Do
+
+**Full-Stack Engineering**
+- Architecting scalable SaaS platforms from MVP to enterprise scale
+- Building responsive frontends with **React.js, Next.js, TypeScript**
+- Designing RESTful APIs & microservices with **FastAPI, Django, Node.js**
+- Optimizing database performance with **PostgreSQL, MySQL, MongoDB, Redis**
+
+**AI/ML Engineering**
+- Implementing production ML pipelines with **MLOps best practices**
+- Building conversational AI systems with **LangChain, LangGraph, OpenAI**
+- Deploying models on **AWS SageMaker** and cloud infrastructure
+- Creating data pipelines with **Apache Spark, Prefect, Celery**
+
+**System Architecture & Leadership**
+- Leading cross-functional teams of 3-8 engineers
+- Designing event-driven architectures with **RabbitMQ, Kafka**
+- Implementing CI/CD pipelines with **Docker, Kubernetes, GitHub Actions**
+- Achieving **40-85% performance improvements** across systems
+
+---
+
+## Current Engineering Focus
+
+<details open>
+<summary><b>Tech Lead @ ThinkRealty Real Estate</b> <i>(March 2025 - Present)</i></summary>
+
+<br>
+
+**Building the Future of Real Estate SaaS**
+
+Leading end-to-end development of a unified platform that eliminates data silos and automates lead management.
+
+```javascript
+const impact = {
+  teamSize: 5,
+  apiPerformance: "< 200ms response time",
+  dataAutomation: "70% reduction in manual entry",
+  leadNurture: "< 5 min response time"
+}
+```
+
+**Key Achievements:**
+- **Multi-Agent Lead Nurture System**: Built intelligent system using LangGraph that scores leads with GPT-4, auto-routes to agents, and runs 5-12 touch nurture campaigns via SMS/WhatsApp/Email
+- **High-Performance Architecture**: FastAPI backend + Next.js frontend + PostgreSQL achieving <200ms response times for complex queries
+- **Automated Data Pipelines**: Integrated Apify web scraping with multiple APIs (Property Monitor, Bayut, PropertyFinder) for 70% auto-population
+- **DevOps Excellence**: Implemented CI/CD pipelines with Docker containerization
+
+</details>
+
+<details>
+<summary><b>Full-Stack AI Engineer @ VirtualFusion.ai</b> <i>(Jan 2025 - May 2025)</i></summary>
+
+<br>
+
+**Enterprise Security Analysis Platform**
+
+Architected multi-tenant security platform processing 10K+ security advisories with 99.5% uptime.
+
+**Technical Highlights:**
+- **Event-Driven Microservices**: Built scalable architecture using RabbitMQ, Docker, achieving sub-500ms API responses
+- **Intelligent IoT Collection**: Developed FastAPI microservice with Playwright MCP and AWS Textract, processing 1000+ devices at 95%+ accuracy
+- **Multi-Agent Chatbot**: Implemented using LangGraph with Tavily search, achieving 90%+ relevance through semantic search optimization
+- **Automation Impact**: Reduced manual security analysis time by 85%, enabling sub-2-minute network infrastructure analysis
+
+**Tech Stack:** Django/DRF, PostgreSQL, TimescaleDB, RabbitMQ, Docker, Auth0, AWS Textract, LangGraph
+
+</details>
+
+---
+
+## Technology Arsenal
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### Frontend & UI
+```javascript
+const frontend = {
+  frameworks: ['React.js', 'Next.js'],
+  languages: ['TypeScript', 'JavaScript'],
+  styling: ['Tailwind CSS', 'CSS3', 'HTML5'],
+  state: ['Redux', 'Context API']
+}
+```
+
+### Backend & APIs
+```python
+backend = {
+    'languages': ['Python', 'Node.js', 'Java'],
+    'frameworks': ['FastAPI', 'Django', 'Flask'],
+    'apis': ['RESTful', 'GraphQL', 'gRPC'],
+    'architecture': ['Microservices', 'Event-Driven']
+}
+```
+
+### Databases & Caching
+```sql
+-- Expertise in:
+PostgreSQL  ⚡ MySQL  ⚡ MongoDB
+TimescaleDB ⚡ Redis  ⚡ Vector DBs
+ArangoDB    ⚡ SQL Optimization
+```
+
+</td>
+<td valign="top" width="50%">
+
+### AI/ML & Data Engineering
+```python
+ai_ml_stack = {
+    'frameworks': ['PyTorch', 'TensorFlow', 'Keras'],
+    'llm_tools': ['LangChain', 'LangGraph', 'OpenAI'],
+    'nlp': ['SpaCy', 'BERT', 'Transformers'],
+    'data': ['Pandas', 'NumPy', 'Apache Spark'],
+    'mlops': ['MLflow', 'AWS SageMaker']
+}
+```
+
+### Cloud & DevOps
+```yaml
+Cloud Platforms:
+  - AWS: EC2, S3, Lambda, RDS, SageMaker, Textract
+  - GCP: Compute Engine, Cloud Functions
+  - Azure: App Services
+
+DevOps:
+  - Containers: Docker, Kubernetes
+  - CI/CD: GitHub Actions, Jenkins
+  - Orchestration: Prefect, Celery
+  - Monitoring: CloudWatch, Prometheus
+```
+
+### Real-Time & Messaging
+```javascript
+realtime = {
+  queues: ['RabbitMQ', 'Kafka', 'Redis Queue'],
+  protocols: ['WebSockets', 'gRPC'],
+  workers: ['Celery', 'Bull']
+}
+```
+
+</td>
+</tr>
+</table>
+
+
+## Featured Projects & Impact
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### AI-Powered Interview Platform
+**Tech:** FastAPI, OpenAI, STT/TTS, AWS
+
+Production-grade interview system serving thousands of users with enterprise reliability.
+
+**Impact Metrics:**
+- **96.8%** API uptime
+- **35%** latency reduction
+- **4.7/5** user satisfaction
+- Deployed on AWS with auto-scaling
+
+</td>
+<td width="33%" valign="top">
+
+### Debt Collection SaaS Platform
+**Tech:** Django, Celery, Redis, Apache Spark
+
+Led team of 3 to build FDCPA-compliant platform transforming client operations.
+
+**Business Impact:**
+- **1200%** revenue increase
+- **70%** faster ETL processing
+- **50%** improved data ingestion
+- Replaced legacy mainframe systems
+
+</td>
+<td width="33%" valign="top">
+
+### AI-Driven Startup Advisor
+**Tech:** LangChain, RAG, OpenAI, Vector DBs
+
+Intelligent advisory system helping founders make data-driven decisions.
+
+**User Impact:**
+- **60%** reduction in research time
+- Empowered **1.5K+** founders
+- Automated market insights
+- Real-time competitive analysis
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### Past Experience Highlights
+
+| Company | Role | Duration | Key Achievement |
+|---------|------|----------|----------------|
+| **RIVON.AI** | Technical Lead – AI/Database Engineering | June 2024 - Jan 2025 | Led team of 8 engineers, delivered 3 major AI/ML projects on time |
+| **VACON.AI** | Senior ML Engineer | Aug 2022 - June 2024 | Built platform generating 1200% revenue increase |
+| **Blink Co Tech** | ML Engineer/Full-Stack Dev | Dec 2020 - June 2022 | Deployed conversational AI with 99.95% uptime |
+
+</div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=ehtisham-sadiq&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="180em" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ehtisham-sadiq&theme=tokyonight&hide_border=false" height="180em" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehtisham-sadiq&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180em" />
+
+</div>
+
+---
+
+## Certifications & Learning
+
+<div align="center">
+
+| Certification | Provider | Focus Area |
+|--------------|----------|------------|
+| 🧠 **Machine Learning Specialization** | Coursera | ML Fundamentals & Algorithms |
+| 🤖 **Deep Learning Specialization** | Coursera | Neural Networks & CNNs |
+| 🐍 **Python for Data Engineering** | DataCamp | Data Pipelines & ETL |
+
+</div>
+
+---
+
+## Let's Build Something Amazing Together
+
+I'm always excited to collaborate on challenging projects, discuss system architecture, or explore opportunities in **Full-Stack Development**, **AI/ML Engineering**, and **Technical Leadership**.
+
+<div align="center">
+
+### Reach Out
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ehtisham-sadiq/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/EhtishamSadiq10)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ehtisham.selfwork@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ehtisham-sadiq)
+
+**Email:** ehtisham.selfwork@gmail.com  
+**Phone:** +92-305-466-1042
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=ehtisham-sadiq&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
+</div>
